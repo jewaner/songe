@@ -9,8 +9,8 @@ function Hero() {
         style={{ maxWidth: "1200px" }}
       >
         <p className="text-xl mb-5">Salut ! Je m'appelle Jennifer Wany's.</p>
-        <h1 className="heroTitle inline-block max-w-2xl lg:max-w-4xl  w-auto relative text-5xl md:text-6xl lg:text-7xl tracking-tighter mb-10 font-bold heroShinyBg">
-          <span className="heroShiny1 text-fun-pink">Design,</span> base de données, ou encore{" "}
+        <h2 className="heroTitle inline-block max-w-2xl lg:max-w-4xl  w-auto relative text-5xl md:text-6xl lg:text-7xl tracking-tighter mb-10 font-bold heroShinyBg">
+          <span className="heroShiny1 text-fun-pink">Dévelloppement, design,</span> base de données, ou encore{" "}
           <span className="heroShiny2 text-fun-pink">test unitaire,</span> je suis passionnée par la conception web
           <img
             className="sqD squiggle-hero-html w-16 top-[-90px] right-[5%] sm:top-[-90px] sm:right-[170px]"
@@ -47,7 +47,7 @@ function Hero() {
             style={{ animationDelay: "0.9s" }}
             src="/static/doodles/hero/code.svg"
           />
-        </h1>
+        </h2>
         <ScrollLink
           activeClass="active"
           to="learnmore"

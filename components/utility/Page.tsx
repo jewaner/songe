@@ -5,7 +5,7 @@ import Navbar from "../global/Navbar";
 import React, { ReactChildren } from "react";
 
 function Page({ currentPage, meta: { title, desc }, children }: PageProps) {
-  const pageTitle = `${currentPage === "Home"
+  const pageTitle = `${currentPage === "Accueil"
     ? "Jennifer Wany's - Développeuse fullstack."
     : `${currentPage} - SONGE`
     }`;

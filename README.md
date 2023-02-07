@@ -1,12 +1,6 @@
 
-SONGE Portfolio built using **React, NextJS, and TailwindCSS**!
+SONGE Portfolio built using **ReactJS, NextJS, and TailwindCSS**!
 
-### DEMO
-
-https://songe-dev.netlify.app/
-
-
-## To run on your local machine
 
 Instructions to copy the project up and running on your local machine for development and testing purposes.
 

@@ -37,6 +37,10 @@ export const skills: Skill[] = [
     style: { filter: "invert(1)" },
   },
   {
+    title: "Laravel",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg",
+  },
+  {
     title: "Typescript",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
   },

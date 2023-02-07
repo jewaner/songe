@@ -22,7 +22,7 @@ type Footer = {
 
 export const routes: Route[] = [
   {
-    title: "Home",
+    title: "Accueil",
     path: "/",
   },
   // {
@@ -31,7 +31,7 @@ export const routes: Route[] = [
   // },
   {
     title: "Projets",
-    path: "/projects",
+    path: "/projets",
   },
   {
     title: "Designs",
@@ -46,7 +46,7 @@ export const footer: Footer = {
       title: "Pages",
       links: [
         {
-          name: "Home",
+          name: "Accueil",
           link: "/",
           leavesWebsite: false,
         },
@@ -56,7 +56,7 @@ export const footer: Footer = {
         //   leavesWebsite: false,
         // },
         {
-          name: "Projects",
+          name: "Projets",
           link: "/projects",
           leavesWebsite: false,
         },

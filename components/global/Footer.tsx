@@ -58,7 +58,9 @@ function Footer() {
                 </a>
               </div>
             )}
-           
+            <p className="text-fun-gray text-xs pt-1">
+              {footer.support.message}
+            </p>
           </div>
         </div>
       </div>
