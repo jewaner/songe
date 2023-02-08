@@ -7,7 +7,7 @@ const projects: Project[] = [
     title: "Ness",
     desc: "Site vitrine pour la plateforme \"Ness'\", plateforme qui connecte des utilisateurs autour d'une idée.",
     img: "/static/projects/ness.png",
-    link: "https://responsive-ness-app.netlify.app/",
+    github: "https://github.com/jewaner",
     tags: ["HTML", "CSS", "Javascript"],
   },
   {
@@ -23,7 +23,7 @@ const projects: Project[] = [
     title: "Dom-shoot",
     desc: "Reservation de scéance de tir airsoft, marquez un maximum de points.",
     img: "/static/projects/dom-shoot.png",
-    link: "https://dom-shoot.netlify.app/",
+    github: "https://github.com/jewaner",
     tags: ["Laravel", "CSS", "Javascript"],
   },
   {

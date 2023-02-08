@@ -30,7 +30,7 @@ function Heading({ tag }: HeadingProps) {
       )}
       {!tag && (
         <p className="text-fun-gray text-xl sm:text-2xl max-w-3xl m-auto">
-          Les projets divers et variés que j'ai eus a mener, m'en offerts une expertise technique solide, me permettant d'aider au développement sur mesure de composant web et applicatifs.
+          Les projets divers et variés que j'ai eus à mener, m'ont offert une expertise technique solide, me permettant d'aider au développement sur mesure de composant web et applicatifs.
         </p>
       )}
     </div>
