@@ -106,7 +106,10 @@ body::-webkit-scrollbar-thumb {
 }
 
 
-
+.text-l {
+    font-size: 1.20rem/* 20px */;
+    line-height: 1.75rem/* 28px */;
+}
 /* BLOG */
 
 /* .prose {
