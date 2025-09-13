@@ -33,13 +33,6 @@ const projects: Project[] = [
     img: "/static/projects/ojocho.png",
     tags: ["Symfony", "ReactJS", "API", "Javascript", "CSS"],
   },
-  {
-    id: 4,
-    title: "Maman julienne",
-    desc: "Website de petite annonce",
-    img: "/static/projects/mjl.png",
-    tags: ["Symfony", "CSS", "Javascript"],
-  },
 
 ];
 
