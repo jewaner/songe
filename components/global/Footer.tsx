@@ -83,14 +83,6 @@ function Footer() {
                 />
                 <span className="sr-only">NextJS</span>
               </span>
-              <span>
-                <img
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-                  width="26"
-                  title="TailwindCSS"
-                />
-                <span className="sr-only">TailwindCSS</span>
-              </span>
             </div>
           </div>
           <div className="mt-2 text-xs ">
@@ -118,7 +110,7 @@ function Footer() {
             height={16}
             alt="Github Icon"
           />
-          <span className="ml-2">View Source Code </span>
+          <span className="ml-2">Source Code</span>
         </a>
       </div>
     </footer>
