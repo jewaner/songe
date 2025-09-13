@@ -8,7 +8,7 @@ function Hero() {
         className="relative heroElem w-full pt-20 pb-40 m-auto flex justify-center text-center flex-col items-center z-1"
         style={{ maxWidth: "1200px" }}
       >
-        <p className="text-l mb-5">Salut ! Je m'appelle Jennifer Wany's et Songe c'est moi !</p>
+        <p className="text-l mb-5">Salut ! Je m'appelle Jennifer et Songe c'est moi !</p>
         <h2 className="heroTitle inline-block max-w-2xl lg:max-w-4xl  w-auto relative text-5xl md:text-6xl lg:text-7xl tracking-tighter mb-10 font-bold heroShinyBg">
           <span className="heroShiny1 text-fun-pink">Dévelloppement, design,</span> base de données, ou encore{" "}
           <span className="heroShiny2 text-fun-pink">test unitaire,</span> je suis passionnée par la conception web
